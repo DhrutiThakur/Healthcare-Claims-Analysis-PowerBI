@@ -1,4 +1,4 @@
-# Healthcare-Claims-Analysis-PowerBI
+# Healthcare-Claims Tracker
 Healthcare Claims & Cost Variance Tracker (In-Progress) 
 
 Status: Phase 1 (Data Modeling & Core KPIs) Complete. Phase 2 (Advanced Analytics) finalizing by Jan 30.
