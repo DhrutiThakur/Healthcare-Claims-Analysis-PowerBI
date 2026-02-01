@@ -1,6 +1,7 @@
 # Healthcare-Claims Tracker
 Healthcare Claims & Cost Variance Tracker (In-Progress)
-📊 # Project Overview
+
+📊 Project Overview
 This Power BI dashboard was developed to provide an executive-level overview of a healthcare claims dataset totaling $23M. The goal of the project is to identify financial trends, analyze denial rates, and pinpoint high-cost provider specialties to assist in Claims Integrity and Revenue Cycle Management.
 
 🛠️ Key Features & Insights
