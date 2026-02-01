@@ -4,6 +4,7 @@ Healthcare Claims & Cost Variance Tracker (In-Progress)
 This Power BI dashboard was developed to provide an executive-level overview of a healthcare claims dataset totaling $23M. The goal of the project is to identify financial trends, analyze denial rates, and pinpoint high-cost provider specialties to assist in Claims Integrity and Revenue Cycle Management.
 
 🛠️ Key Features & Insights
+
 Executive KPI Header: Real-time tracking of Total Claims ($23M), Average Claim Cost ($5.01K), and a high-level Denial Rate (34%).
 
 Cost Variance Analysis: A time-series line chart tracking spend from 2022 to 2024, identifying a significant peak in 2023 ($11.8M) followed by a sharp decline.
