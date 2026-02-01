@@ -1,10 +1,10 @@
 # Healthcare-Claims Tracker
-Healthcare Claims & Cost Variance Tracker (In-Progress)
 
-📊 Project Overview
+
+<h4>📊 Project Overview</h4>
 This Power BI dashboard was developed to provide an executive-level overview of a healthcare claims dataset totaling $23M. The goal of the project is to identify financial trends, analyze denial rates, and pinpoint high-cost provider specialties to assist in Claims Integrity and Revenue Cycle Management.
 
-🛠️ Key Features & Insights
+<h4>🛠️ Key Features & Insights</h4>
 
 Executive KPI Header: Real-time tracking of Total Claims ($23M), Average Claim Cost ($5.01K), and a high-level Denial Rate (34%).
 
@@ -16,7 +16,7 @@ Demographic Segmentation: Analysis of spend across Patient Gender (50.77% Female
 
 Interactive Discovery: Integrated slicers for Year, Month, Provider Specialty, and Location to allow for granular data filtering.
 
-🧠 Technical Skills Applied
+<h4>🧠 Technical Skills Applied</h4>
 Data Modeling: Established a Star Schema to connect claim facts with a centralized Calendar Table for accurate time-intelligence reporting.
 
 DAX (Data Analysis Expressions):
@@ -31,7 +31,7 @@ Data Visualization: Utilized Clustered Bar Charts, Donut Charts, and advanced co
 
 Data Cleaning: Handled data type conversions (Text to Decimal) to ensure mathematical accuracy of currency values.
 
-📈 Business Impact
+<h4>📈 Business Impact</h4>
 By using this dashboard, a Claims Integrity team can:
 
 Prioritize Audits: Focus on the "General Practice" specialty which currently holds a 35% denial rate.
