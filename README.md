@@ -39,3 +39,6 @@ Prioritize Audits: Focus on the "General Practice" specialty which currently hol
 Budget Forecast: Use the 2023 spend peak to predict future seasonal surges.
 
 Operational Efficiency: Identify that "Paper" and "Phone" claim submissions (visible in the detail table) may be contributing to higher processing costs compared to "Online" submissions.
+
+
+![Healthcare-Tracker](https://github.com/user-attachments/assets/66b22bfb-0a75-499e-ad53-b9fdd0ca966d)
